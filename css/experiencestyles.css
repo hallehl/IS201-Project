@@ -1,0 +1,46 @@
+.common{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #212529;
+    text-align: center;
+}
+
+.header{
+    background-color: #e6a756;
+    height: 150px;
+    line-height: 150px;  
+}
+
+.mainbody{
+    background-color: rgb(255, 246, 234);
+}
+
+h1{
+    font-size: 75px;
+}
+
+h3{
+    background-color: #ffcc8ab3;
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+h4{
+    font-weight: bold;
+}
+
+ol{
+    font-weight: bold;
+    font-size: large;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul{
+    font-weight: lighter;
+    font-size: medium;
+}
+
+.footer{
+    background-color: #e6a756;
+    height: 25px
+}
